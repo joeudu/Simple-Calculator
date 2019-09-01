@@ -1,6 +1,6 @@
 # Simple-Calculator
 This is a simple javascript calculator
-
+```
 var math = prompt("Do you want to multiply, divide, add, or subtract?");
 var num1 = prompt("Enter your first number here:");
 var num2 = prompt("Enter your second number here:");
@@ -28,3 +28,4 @@ default:
     result = "Please enter multiply, divide, add, or subtract."
 break;
 }
+```
